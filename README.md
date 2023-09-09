@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.in.com/feed/](https://www.linkedin.com/in/a-daniyal/)
 
-- ⚡ Fun fact **I love watching movies and singing**
+- ⚡ Fun fact **I love playing games and singing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
