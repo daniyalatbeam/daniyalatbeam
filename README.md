@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 👯 I’m looking to collaborate on **Node js project**
+- 👯 I’m looking to collaborate on **Three JS Project**
 
 - 💬 Ask me about **React, React Native,NodeJs**
 
