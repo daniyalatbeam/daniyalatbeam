@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in **Generative Ai @Beam**
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **THREE JS**
 
 - 👯 I’m looking to collaborate on **Three JS Project**
 
