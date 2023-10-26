@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyal094&label=Profile%20views&color=0e75b6&style=flat" alt="daniyal094" /> </p>
 
-- 🔭 I’m currently working in **Generative Ai @Beam**
+- 🔭 I’m currently working in **Autonomous Agents @Beam**
 
 - 🌱 I’m currently learning **THREE JS AND Nestjs**
 
