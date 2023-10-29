@@ -1,6 +1,6 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://github.com/daniyal094)
 <h1 align="center">Hi 👋, I'm Daniyal Ahmed</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyal094&label=Profile%20views&color=0e75b6&style=flat" alt="daniyal094" /> </p>
 
