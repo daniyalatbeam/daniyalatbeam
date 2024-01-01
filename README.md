@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Three JS Project**
 
-- 💬 Ask me about **React, React Native,NodeJs**
+- 💬 Ask me about **React, React Native,NodeJs and JavaScript**
 
 - 📫 How to reach me **ahmeddaniyal52@gmail.com**
 
