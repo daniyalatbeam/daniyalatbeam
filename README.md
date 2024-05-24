@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **THREE JS AND Nestjs**
 
-- 👯 I’m looking to collaborate on **Three JS Project**
+- 👯 I’m looking to collaborate on **NesJs project**
 
 - 💬 Ask me about **React, React Native,NodeJs and JavaScript**
 
